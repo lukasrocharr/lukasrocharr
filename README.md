@@ -1,7 +1,7 @@
 ## 👨‍💻 Lukas Rocha
 **`back-end developer`**
 
-Systems Analysis and Development student at UNASP - São Paulo, focused on backend development and system integration. I have hands-on experience with Java, Python, SQL, and hardware integration — especially working with fiscal printers using JNA for native DLL communication. I'm passionate about applying solid object-oriented programming principles, writing clean code, and building efficient, real-world solutions.
+Systems Analysis and Development student focused on backend development and system integration. I have hands-on experience with Java, Python, SQL, and hardware integration — especially working with fiscal printers using JNA for native DLL communication. I'm passionate about applying solid object-oriented programming principles, writing clean code, and building efficient, real-world solutions.
 
 ---
 
