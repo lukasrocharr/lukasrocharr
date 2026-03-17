@@ -37,9 +37,6 @@ My tech stack is built for modern, scalable, and dynamic development. Hover over
 <a href="https://linkedin.com/in/lukasrocharr" target="_blank">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" alt="LinkedIn" width="40" />
 </a>
-<a href="https://instagram.com/lukasrocharr" target="_blank">
-  <img src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Instagram_icon.png" alt="Instagram" width="40" />
-</a>
 <a href="mailto:contatolukasrocha@gmail.com">
   <img src="https://upload.wikimedia.org/wikipedia/commons/4/4e/Gmail_Icon.png" alt="Email" width="40" />
 </a>
