@@ -48,7 +48,3 @@ My tech stack is built for modern, scalable, and dynamic development. Hover over
   <img height="130em" src="https://github-readme-stats.vercel.app/api?username=lukasrocharr&show_icons=true&theme=radical&hide_border=true&include_all_commits=true" alt="GitHub Stats" />
 </div>
 
-<div align="left">
-  <img src="https://komarev.com/ghpvc/?username=lukasrocharr&label=Profile%20Views&color=ff69b4&style=flat-square" alt="Visitor Badge" />
-</div>
-
