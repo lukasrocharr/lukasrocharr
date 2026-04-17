@@ -45,6 +45,5 @@ My tech stack is built for modern, scalable, and dynamic development. Hover over
 
 <div align="center">
   <img height="130em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lukasrocharr&layout=compact&langs_count=6&theme=radical&hide_border=true&card_width=200" alt="Top Languages" />
-  <img height="130em" src="https://github-readme-stats.vercel.app/api?username=lukasrocharr&show_icons=true&theme=radical&hide_border=true&include_all_commits=true" alt="GitHub Stats" />
 </div>
 
