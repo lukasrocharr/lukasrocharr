@@ -1,7 +1,9 @@
 ## 👨‍💻 Lukas Rocha
 **`back-end developer`**
 
-Systems Analysis and Development student focused on backend development and system integration. I have hands-on experience with Java, Python, SQL, and hardware integration — especially working with fiscal printers using JNA for native DLL communication. I'm passionate about applying solid object-oriented programming principles, writing clean code, and building efficient, real-world solutions.
+Atuação em TI com foco em automação, análise de dados, desenvolvimento de sistemas e resolução de problemas, aplicando soluções práticas para otimizar processos e aumentar a eficiência operacional. 
+Experiência com organização de sistemas digitais, manutenção de software e hardware e suporte técnico.
+Conhecimento avançado e prático em SQL, Python e Excel para análise de dados, automação de tarefas e melhoria de processos no dia a dia, Java e integração de sistemas com hardware, aplicando princípios de programação orientada a objetos e boas práticas de código para construir soluções eficientes e funcionais.
 
 ---
 
