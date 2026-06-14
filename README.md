@@ -19,6 +19,10 @@ My tech stack is built for modern, scalable, and dynamic development. Hover over
   <img src="https://skillicons.dev/icons?i=mysql" alt="MySQL" />
   <img src="https://skillicons.dev/icons?i=git" alt="Git" />
   <img src="https://skillicons.dev/icons?i=postgres" alt="PostgreSQL" />
+  <img alt="Kali Linux" title="Kali Linux" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/kalilinux/kalilinux-original.svg" />
+  <img alt="Angular" title="Angular" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/angularjs/angularjs-original.svg" />
+  <img alt="Figma" title="Figma" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/figma/figma-original.svg" />
+</div>
 </p>
 
 ---
